@@ -1,0 +1,12 @@
+{
+    "image2": {
+        "data": "hwQIAAgAAAB3d3d3Z2ZmdmdmZnZnZmZ2Z2ZmdmdmZnZnZmZ2d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snakeSegment"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
