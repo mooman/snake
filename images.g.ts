@@ -5,14 +5,14 @@ namespace myImages {
         switch(helpers.stringTrim(name)) {
             case "image2":
             case "snakeSegment":return img`
-7 7 7 7 7 7 7 7 
+. 7 7 7 7 7 7 . 
 7 6 6 6 6 6 6 7 
 7 6 6 6 6 6 6 7 
 7 6 6 6 6 6 6 7 
 7 6 6 6 6 6 6 7 
 7 6 6 6 6 6 6 7 
 7 6 6 6 6 6 6 7 
-7 7 7 7 7 7 7 7 
+. 7 7 7 7 7 7 . 
 `;
         }
         return null;
